@@ -33,3 +33,4 @@ less efficient than it could be right now because I want an inexperienced
 user to make the final game without too much trouble.
 
 P.S. "Alex" is the username on a Mac I had to borrow to work on this.
+Edited by Kevin lol
